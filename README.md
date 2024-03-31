@@ -4,12 +4,12 @@
 👑 Web Designer <br>
 🖊️ Love to write code
 <br> <br>
-#### 🚀 About Me 
+### 🚀 About Me 
 <hr>
 a seasoned web designer with two years of experience who blends creativity with technical expertise to craft visually stunning and user-friendly websites that leave a lasting impression.
 <br> <br> <br>
 
-#### 👨‍💻 Skills & Experience 
+### 👨‍💻 Skills & Experience 
 <hr>
 ✅ HTML / CSS / BOOTSTRAP <br> 
 ✅ JAVASCRIPT <br> 
@@ -18,8 +18,8 @@ a seasoned web designer with two years of experience who blends creativity with 
 ✅ LOCOMOTIVE JS <br> <br> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ahmedinfa)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
-#### ☕ Connect Me With <hr>
+### ☕ Connect Me With <hr>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ahmedinfa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/infaahmeddeepo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/infa_1602//)  
 <br>
-#### 📧  For Business Inquiries 
+### 📧  For Business Inquiries 
 💁 <a href="mailto:info.infa02@gmail.com">info.infa02@gmail.com</a>
