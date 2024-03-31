@@ -23,4 +23,4 @@ a seasoned web designer with two years of experience who blends creativity with 
 <br>
 ##### 📧  For Business Inquiries 
 <br>
-💁 <a mailto="info.infa02@gmail.com"> info.infa02@gmail.com </a>
+💁 <a href="mailto:info.infa02@gmail.com">info.infa02@gmail.com</a>
