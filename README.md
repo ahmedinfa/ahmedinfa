@@ -21,6 +21,6 @@ a seasoned web designer with two years of experience who blends creativity with 
 ##### ☕ Connect Me With <hr>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ahmedinfa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/infaahmeddeepo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/infa_1602//)  
 <br>
-##### 📧  For Business Inquiries
-<hr> <br>
-💁 info.infa02@gmail.com
+##### 📧  For Business Inquiries 
+<br>
+💁 <a mailto="info.infa02@gmail.com"> info.infa02@gmail.com </a>
