@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Infa Ahmed
 #### Web Designer <br>
-![Web Designer](https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/434370512_1579736426152536_7663922709948900300_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XZjUFWj9x8MAX-Q1Rm0&_nc_ht=scontent.frjh4-1.fna&oh=00_AfBNr7Xs5lTwTKg3AdaH0ASsoTSCZQHn-S94uejWnZZpoA&oe=660EDA21) <br>
-👑 Web Designer
+![Web Designer](https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/434370512_1579736426152536_7663922709948900300_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XZjUFWj9x8MAX-Q1Rm0&_nc_ht=scontent.frjh4-1.fna&oh=00_AfBNr7Xs5lTwTKg3AdaH0ASsoTSCZQHn-S94uejWnZZpoA&oe=660EDA21) <br> <br>
+👑 Web Designer <br>
 🖊️ Love to write code
 <br>
 ##### 🚀 About Me 
